@@ -1,4 +1,4 @@
-# Final Project: Personal Expense Tracking App
+# Personal Expense Tracking App
 
 The goal of this project is create a Python app that lets you (as a user) track and categorize your monthly expenses and help you budget.
 
